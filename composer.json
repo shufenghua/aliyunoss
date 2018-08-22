@@ -5,6 +5,6 @@
         "aliyuncs/oss-sdk-php": "^2.3"
     },
     "autoload": {
-        "psr-4": {"sfh\\aliyun\\": "src/"}
+        "psr-4": {"sfh\\aliyunoss\\": "src/"}
     }
 }
