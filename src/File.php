@@ -1,6 +1,6 @@
 <?php
 
-namespace sfh\OSS;
+namespace sfh\aliyunoss;
 
 class File {
     public static function test() {
