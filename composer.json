@@ -3,5 +3,8 @@
     "version": "1.0.0",
     "require": {
         "aliyuncs/oss-sdk-php": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {"sfh\\aliyun\\": "src/"}
     }
 }
