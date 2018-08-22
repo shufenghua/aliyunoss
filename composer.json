@@ -1,0 +1,7 @@
+{
+    "name": "aliyun/oss",
+    "version": "1.0.0",
+    "require": {
+        "aliyuncs/oss-sdk-php": "^2.3"
+    }
+}
